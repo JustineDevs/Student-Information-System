@@ -1,0 +1,38 @@
+Student System Information (Project Title)
+Core Components
+Academic Calendar, Registrar Manual, Student Handbook: Category, Title, Notes/Remarks, Uploaded By, Valid Until, Require Agreement, Last Update < All of this have search Engine, View & Download Manual buttons
+Student Services: School Year, Term, Schoolarship, Discount Rate, Discount Applied, Benefits < All of this have search Engine, View & Download Manual buttons
+Student Services have Apply for scholarship, Clear, Refresh, Show all list, Back < Buttons 
+My Profile: Basic Information > About Me, Requirements, Education, Family < Buttons
+My Profile seperate part Name, Cources, ID Number, Department, Official Email Address all of this is base on information their handle
+My Profile Include in Basic Information > Last Name, First Name, Middle Name, Middle Initial, Suffix, Birth Date, Country of Birth, Birth Place, Civil Status, Gender, Religion, Mobile No., Telephone No., Email Address
+My Profile Include in Address > Present Address < Province, City/ Municipality, House No./ St., Barangay, Postal Code > Permanent Address < Country, Province, City/ Municipality, House No./ St., Barangay, Postal Code
+Online Class Registration: Enrollment Profile > Academic Term, Student ID, Student Name, Student Type, Course, College
+Online Class Registration in Student Flowchart > Flowchart Code, Flowchart Name, # Term 1-12, Color Indicators (Legend:     - not yet taken    - passed subject    - failed subject    - in progress    - incomplete    - currently enrolled    - registered    - for crediting)
+Online Class Registration in Enrollment Evaluation >  Class Schedules, Register, History < buttons (Class Schedules > Allowed Units(1-20), Consumed Units(1-20), (Register > Class Bucket(Remaining Units(1-20)) Select a class to add. > Register To (Radio button(Per section, Per Class), Choose Section > Specify Section(Section Name) , have table Subject, Schedule, Units, Offered To, Limit, Enrolled, Reserved, Status, No data available in table
+Online Class Registration have logic if the class is Temporary Closed (ex: Online Class Registration is open until, The purpose of this module is for you to secure a slot for your preferred classes aligned to your flowchart.After successful registration, you can generate a TEMPORARY assessment form which shows your estimated tuition fees if you proceed to enrollment.
+DO NOT use your temporary assessment form for paying your tuition & miscellaneous fees because your registered classes may subject to change after we evaluate your last term subjects and unpassed pre-requisites.
+If you are a SCHOLAR, please process renewal of financial assistance/scholarship subsidy before the start of enrollment on) and have buttons "I Understand and I want to proceed" "Back"
+Onlien Enrollment have specific time (Online enrollment is currently closed. Please contact Registrar's office for assistance.)
+My Student Ledger:  Student Information > Student ID, Student Name, Course, Balance as of (MM-DAY-YYYY & Balance: Currency), Assessment (ex: ALL, ASSESSMENT #DM2504-031 it depends which choose in assessment reflect on table) > Table (Date, Transaction, Reference No., Description(Previous Balance), (TOTAL) > Billings, Payments, Balance) 
+Online Teacher's Evaluation: List of Professor/Teacher Evaluate performance (1 > 7, 1 is highest) 
+List of Class Offerings: Year, Term, College(What of Organization), Program(Section), Table (Section, Course Description, Schedule, Offered To, Capacity, Enrolled, Reserved, Available, Status)
+My Flowchart: Student Flowchart for (School Year(AY) Term ) > Student ID, Student Name, Course, Year Level, Table > (Term 1-12)
+My Clearance Information: Student's Accountabilities > Student ID, Student Name, Student Course and have Status Below About Ledger (ex: Good job! You have no active clearance record in any office. As for your remaining matriculation balance, you may use your Student Ledger module to check your actual statement of accounts.)
+My Schedule Viewer: Table (Weeks Sun, Mon, Tue, Wed, Thu, Fri, Sat) Time (6AM - 9PM) > See All Subject ( Subject Code, Section, Teacher/Professor)
+View my Certificate of Registration: Generate Form  > Student ID, Student Name, Academic Year, Term
+View My Grades: Select term > School Year, School Term Radio button(1st - 3rd & Summer),  Grade Records > Table (Subject Code, Subject Description, Midterm Grade, Final Grade, Units, Total units, General weighted average (GWA))
+
+
+Key Features
+Documents & Manuals [Collection of documents, forms and manuals for administration, students, faculty, and staff.] > Academic Calendar [A collection of university's academic calendars.], Registrar Manual [A collection of university's registrar manuals.], Student Handbook [A collection of student handbook versions and revisions.]
+Student Services [Group of modules for student development, activities, and services.] > Apply for Scholarship [View offered scholarships and have the opportunity to apply or renew.]
+Students [Stores and tracks all student information, including grades, accountabilities, and more.] > My Profile [View your personal information, education, and family background.], Online Class Registration [Reservation and pre-registration to classes you wish to enroll on enrollment start.], Online Enrollment[ Includes processes from online registration of classes to payment method.], My Student Ledger [View my payment transactions with Accounting's office.], 
+Evaluate my Teacher [Evaluate your teacher for each of your enrolled classes for the active period.], List of Class Offerings [Displays list of offered classes of each department and program for the current term.], My Flowchart [View your curriculum flowchart displaying the details and status of each included subject.], 
+My Clearance Information [View and settle your accountabilities and clearance issues in each department.], My Schedule Viewer [View schedules and assigned faculty of your currently enrolled/registered classes.], View Certificate of Registration (COR) [Generate and issue certificate of enrollment.], View Grades [Displays academic grades of the student for the current grading period.]
+Upload ID [Uploading ID if the user already exist with (RWA) ID]
+
+Details: This Project Integrate with mySQL, Finalize system requirements and tech choices & Design user flow and GUI wireframes
+
+Tech Stack: Java, mySQL
+
