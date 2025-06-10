@@ -1,5 +1,26 @@
 # Student Information System (SIS)
 
+## Project Overview
+The Student Information System (SIS) is a comprehensive web-based platform designed to streamline and manage all aspects of student administration, academic processes, and student services. The system provides a centralized solution for managing student records, academic activities, and administrative functions.
+
+## Mission & Vision
+
+### Mission
+To provide an efficient, secure, and user-friendly platform that enhances the academic experience by:
+- Streamlining administrative processes
+- Facilitating seamless communication between students, faculty, and administration
+- Ensuring accurate and timely access to academic information
+- Supporting data-driven decision making
+- Promoting transparency in academic operations
+
+### Vision
+To become the leading student information management solution that:
+- Sets the standard for educational technology
+- Empowers educational institutions with cutting-edge tools
+- Fosters academic excellence through efficient management
+- Enables seamless integration of academic processes
+- Drives innovation in educational administration
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [System Architecture](#system-architecture)
@@ -11,9 +32,6 @@
 - [Security Features](#security-features)
 - [API Documentation](#api-documentation)
 - [Deployment Guide](#deployment-guide)
-
-## Project Overview
-The Student Information System (SIS) is a comprehensive web-based platform designed to streamline and manage all aspects of student administration, academic processes, and student services. The system provides a centralized solution for managing student records, academic activities, and administrative functions.
 
 ## System Architecture
 The system follows a three-tier architecture:
